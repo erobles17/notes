@@ -62,3 +62,19 @@ function add(num1, num2) {
     return num1 + num2;
 }
 ```
+
+```python
+def add(num1, num2):
+    return num1 + num2
+```
+
+<!-- Tables -->
+|Name   | Email             |
+|-------|-------------------|
+|Jememi |eljememi@khe.com   |
+
+<!-- Task list -->
+
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
